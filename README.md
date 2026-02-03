@@ -72,5 +72,5 @@ try {
 ## Hackathon Status
 
 - **Draft:** This project is currently in draft status for the Colosseum Agent Hackathon.
-- **Repo:** https://github.com/openclaw/openclaw
+- **Repo:** https://github.com/ceyloncash/ceypay-x402
 - **Tags:** payments, ai, infra
